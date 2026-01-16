@@ -9,7 +9,7 @@ Funcionalidades
 - Tratamento e validação do CEP informado
 - Exibição de logradouro, bairro, cidade e estado
 - Interface simples e amigável
-- 
+ 
 Tecnologias Utilizadas
 
 - PHP
